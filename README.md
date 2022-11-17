@@ -7,18 +7,20 @@
 ## App Live Link : 
 https://react-tic-tac-toe-shubhobd.netlify.app/
 
---- 
 
 ## About Tic-Tac-Toe
 
+<p align="center">
+  <img width="250px" src="https://i.ibb.co/JngZTVg/Tic-Tac-Toe-Screenshort.png" alt="Tic Tac Toe Logo"/>
+</p>
+
 This is a Simple Interactive game which is build with React JS.In This Simple App I Use Vanila CSS and Some Logics to Maintaing the Score and Wining Party. I Hope It will enjoyable to play. Thanks.
 
----
 ## Using Technology
 - React JS
 - Vanila CSS
-- 
----
+- Netlify for Deployment
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
