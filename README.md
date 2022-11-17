@@ -2,8 +2,8 @@
   <img width="250px" src="https://i.ibb.co/Fw97DNH/tic-tac-toe-logo.png" alt="Tic Tac Toe Logo"/>
 </p>
 
-## React Tic-Tac-Toe
-# Getting Started with Create React App
+# React Tic-Tac-Toe
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
