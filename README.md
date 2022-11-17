@@ -3,7 +3,9 @@
 </p>
 
 # React Tic-Tac-Toe
-
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/shubhomedia/React-Tic-Tac-Toe?style=for-the-badge)
 ## App Live Link : 
 https://react-tic-tac-toe-shubhobd.netlify.app/
 
